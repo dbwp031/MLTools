@@ -1,0 +1,6 @@
+python get_info.py --model /root/workspace/vision/0_models/Custom_L2Norm_Add/compressed_model_best_E75_IoU71_3_batchnorm_l2norm04_add12_03_add15_00.pt
+python get_info.py --model /root/workspace/vision/0_models/Custom_L2Norm_Add/compressed_model_best_E75_IoU71_3_batchnorm_l2norm04_add12_06_add15_00.pt
+python get_info.py --model /root/workspace/vision/0_models/Custom_L2Norm_Add/compressed_model_best_E75_IoU71_3_batchnorm_l2norm04_add12_09_add15_00.pt
+
+# python get_info.py --model /root/workspace/vision/0_models/Custom_L2Norm_Add/compressed_model_best_E75_IoU71_3_batchnorm_l2norm04_add12_03_add15_04.pt
+# python get_info.py --model /root/workspace/vision/0_models/Custom_L2Norm_Add/compressed_model_best_E75_IoU71_3_batchnorm_l2norm04_add12_03_add15_05.pt
